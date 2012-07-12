@@ -11,7 +11,7 @@ Contact:
       ca:
         kind: Email
   mobiljordir:
-    target: &nbsp;
+    target: "&nbsp;"
     Member: jordir
     Enumeration: two
     Translation:

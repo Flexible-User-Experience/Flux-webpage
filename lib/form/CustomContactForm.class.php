@@ -1,5 +1,5 @@
 <?php
-class ContactForm extends sfForm
+class CustomContactForm extends sfForm
 {
 	public function setup()
 	{	
@@ -7,7 +7,7 @@ class ContactForm extends sfForm
 		      'name'        => new sfWidgetFormInputText(),
 					'email'       => new sfWidgetFormInputText(),
 					'phone'       => new sfWidgetFormInputText(),
-					'message'     => new sfWidgetFormTextarea()
+					'message'     => new sfWidgetFormInputText(), //sfWidgetFormTextarea()
 		));
 		$this->setValidators(array(
 					'name'       => new sfValidatorString(array('min_length' => 3, 'max_length' => 255), array('min_length' => 'Invalid: 3 characters min.', 'max_length' => 'Invalid: 255 characters max.')),
