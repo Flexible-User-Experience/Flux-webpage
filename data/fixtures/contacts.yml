@@ -263,3 +263,36 @@ Contact:
         kind: Twitter
       ca:
         kind: Twitter
+  twittermmorales:
+    target: https://twitter.com/MrcMorales
+    Member: marcmorales
+    Enumeration: three
+    Translation:
+      en:
+        kind: Twitter
+      es:
+        kind: Twitter
+      ca:
+        kind: Twitter
+  linkedmmorales:
+    target: http://www.linkedin.com/profile/view?id=159101580&locale=es_ES&trk=prof-0-ovw-view-secondary
+    Member: marcmorales
+    Enumeration: two
+    Translation:
+      en:
+        kind: LinkedIn
+      es:
+        kind: LinkedIn
+      ca:
+        kind: LinkedIn
+  githubdavid:
+    target: https://github.com/mrcmorales
+    Member: marcmorales
+    Enumeration: six
+    Translation:
+      en:
+        kind: GitHub
+      es:
+        kind: GitHub
+      ca:
+        kind: GitHub

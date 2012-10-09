@@ -191,3 +191,27 @@ Member:
         address:
         category: Dissenyador gràfic
         description: Tècnic Superior de Gràfica Publicitària
+  marcmorales:
+    user: marc.morales
+    is_partner: 1
+    alt_image: marcmorales.png
+    Enumeration: nine
+    Translation:
+      en:
+        name: Marc
+        surname: Morales
+        address:
+        category: Programmer
+        description: Software Engineer
+      es:
+        name: Marc
+        surname: Morales
+        address:
+        category: Programador
+        description: Ingenierio Técnico Informática de Sistemas
+      ca:
+        name: Marc
+        surname: Morales
+        address:
+        category: Programador
+        description: Enginyer Tècnic Informàtica de Sistemes
