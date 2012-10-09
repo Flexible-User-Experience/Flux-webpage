@@ -2,6 +2,7 @@
 	<h1><?php echo $title ?></h1>
 	<?php echo $sf_data->getRaw('text'); ?>
 	<form method="POST" action="<?php echo url_for('static/contact') ?>" class="contactForm">
+	<?php /*echo $form->renderFormTag('static/contact', array('class' => 'contactForm'))*/ ?>
 	<?php echo $form ?>
 	<input type="submit" class="customSubmit" value="<?php echo __('Submit') ?>"/>
 	</form>

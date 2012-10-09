@@ -15,6 +15,8 @@
 					<?php if ($contacte->Enumeration->getIsActive()): ?>
 						<?php if ($contacte->getKind() !== 'NO-LINE'): ?>
 							<a class="<?php echo $contacte->getKind()?>" href="<?php echo $contacte->getTarget()?>"></a>
+						<?php else: ?>
+							<?php echo '&nbsp;<br/>'; ?>
 						<?php endif; ?>
 					<?php endif; ?>
 				<?php endforeach; ?>

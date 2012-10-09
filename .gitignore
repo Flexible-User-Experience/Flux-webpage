@@ -6,3 +6,6 @@
 .idea/*
 log/*
 cache/*
+*.sublime-project
+*.sublime-workspace
+
