@@ -3,31 +3,31 @@ Member:
     user: santiago.romani
     is_partner: 0
     alt_image: santiagoromani.png
-    Enumeration: one
+    Enumeration: two
     Translation:
       en:
         name: Santiago
         surname: Romaní
         address:
-        category: Founding partner, CTO & programmer
+        category: Founding partner
         description: Ph.D. in Computer Sciences
       es:
         name: Santiago
         surname: Romaní
         address:
-        category: Socio fundador, director técnico y programador
+        category: Socio fundador
         description: Doctorado en Informática
       ca:
         name: Santiago
         surname: Romaní
         address:
-        category: Soci fundador, director tècnic i programador
+        category: Soci fundador
         description: Doctorat en Informàtica
   jordir:
     user: jordi.romani
     is_partner: 0
     alt_image: jordiromani.png
-    Enumeration: two
+    Enumeration: three
     Translation:
       en:
         name: Jorge
@@ -51,7 +51,7 @@ Member:
     user: david.romani
     is_partner: 0
     alt_image: davidromani.png
-    Enumeration: three
+    Enumeration: one
     Translation:
       en:
         name: David

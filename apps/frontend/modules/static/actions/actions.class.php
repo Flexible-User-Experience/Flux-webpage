@@ -63,7 +63,7 @@ class staticActions extends sfActions
   	$unit = UnitTable::getContact();
   	$this->title = $unit->getTitle();
   	$this->text  = $unit->getDescription();
-  	$this->form  = new ContactForm();
+  	$this->form  = new CustomContactForm();
   	if ($request->isMethod(sfRequest::POST)) {
   		$this->form->bind($request->getParameter($this->form->getName()), $request->getFiles($this->form->getName()));
   		if ($this->form->isValid()) {
@@ -81,7 +81,7 @@ class staticActions extends sfActions
   					'Missatge: '. $this->form->getValue('message'). '</p>', 'text/html');
   			$this->getMailer()->send($message);
   			$this->getUser()->setFlash('msg', 'Email send');
-  			$this->form  = new ContactForm();
+  			$this->form  = new CustomContactForm();
   		}
   	}
   }
