@@ -95,3 +95,19 @@ Project:
         technology: Elgg, PHP, MySQL y Git
       ca:
         technology: Elgg, PHP, MySQL i Git
+  lopati:
+    name: lopati
+    logo: /images/lopati-logo-color.png
+    logo_bw: /images/lopati-logo.png
+    alt_image: /images/lopati-screenshot.png
+    begin_date: '2012-08-01'
+    end_date: '2012-12-01'
+    Unit: lopati
+    Enumeration: seven
+    Translation:
+      en:
+        technology: PHP Symfony2 Framework, JavaScript & MySQL
+      es:
+        technology: PHP Symfony2 Framework, JavaScript y MySQL
+      ca:
+        technology: PHP Symfony2 Framework, JavaScript i MySQL

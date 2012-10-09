@@ -142,4 +142,25 @@ MemberProject:
         task:
       ca:
         task:
-        
+  lopatidavid:
+    Project: lopati
+    Member: david
+    Enumeration: one
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:
+  lopatimmorales:
+    Project: lopati
+    Member: marcmorales
+    Enumeration: two
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:

@@ -419,3 +419,41 @@ Unit:
           <ul class="projects-ul"><li><span class='blacktext'>Inicialització d'un repositori Git públic per al desenvolupament col·laboratiu</span></li>
           <li><span class='blacktext'>Retoc del disseny gràfic sobre la plantilla inicial per adaptar-se millor al color corporatiu verd</span></li>
           <li><span class='blacktext'>Traducció de la plataforma al català</span></li></ul>
+  lopati:
+    name: Lo Pati
+    url: www.lopati.cat
+    image:
+    Translation:
+      en:
+        title: Lo Pati · Centre d'Art Terres de l'Ebre
+        subtitle:
+        summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
+        description: |
+          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Works:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
+          <li><span class='blacktext'>URL amigables</span></li>
+          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
+          <li><span class='blacktext'>Minicalendario de eventos</span></li>
+          <li><span class='blacktext'>Newsletter</span></li></ul>
+      es:
+        title: Lo Pati · Centre d'Art Terres de l'Ebre
+        subtitle:
+        summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
+        description: |
+          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Trabajos realizados:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
+          <li><span class='blacktext'>URL amigables</span></li>
+          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
+          <li><span class='blacktext'>Minicalendario de eventos</span></li>
+          <li><span class='blacktext'>Newsletter</span></li></ul>
+      ca:
+        title: Lo Pati · Centre d'Art Terres de l'Ebre
+        subtitle:
+        summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
+        description: |
+          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Treballs realitzats:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
+          <li><span class='blacktext'>URL amigables</span></li>
+          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
+          <li><span class='blacktext'>Minicalendario de eventos</span></li>
+          <li><span class='blacktext'>Newsletter</span></li></ul>
