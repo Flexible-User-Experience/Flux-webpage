@@ -429,31 +429,31 @@ Unit:
         subtitle:
         summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
         description: |
-          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Works:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
-          <li><span class='blacktext'>URL amigables</span></li>
-          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
-          <li><span class='blacktext'>Minicalendario de eventos</span></li>
-          <li><span class='blacktext'>Newsletter</span></li></ul>
+          <p>This project builds on an existing site with ASP.net has been rescheduled with Symfony 2.1. In the private part (bakcend) was used SonataAdminBundle management package. The original site was in one language and no newsletter available. The work has been:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Add an efficient content management system</span></li>
+          <li><span class='blacktext'>Create an automatic friendly URLs from the pages title that fits perfectly for each language</span></li>
+          <li><span class='blacktext'>Internationalization (i18n) of the entire application for multiple languages</span></li>
+          <li><span class='blacktext'>Events calendar</span></li>
+          <li><span class='blacktext'>Customizable newsletter</span></li></ul>
       es:
         title: Lo Pati · Centre d'Art Terres de l'Ebre
         subtitle:
         summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
         description: |
-          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Trabajos realizados:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
-          <li><span class='blacktext'>URL amigables</span></li>
-          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
+          <p>Este proyecto parte de una web existente realizada con ASP.net que ha sido reprogramada con Symfony 2.1. En la parte privada (backend) se ha utilizado el paquete de administración SonataAdminBundle. La web original estaba en un único idioma y no disponía de boletín de noticias. Los trabajos realizados han sido:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Añadir un sistema de gestión de contenidos eficiente</span></li>
+          <li><span class='blacktext'>Crear un sistema automático de URLs amigables partir del título de las páginas que se adapta perfectamente para cada idioma</span></li>
+          <li><span class='blacktext'>Internacionalización (i18n) de toda la aplicación para múltiples idiomas</span></li>
           <li><span class='blacktext'>Minicalendario de eventos</span></li>
-          <li><span class='blacktext'>Newsletter</span></li></ul>
+          <li><span class='blacktext'>Boletín de noticias personalizable</span></li></ul>
       ca:
         title: Lo Pati · Centre d'Art Terres de l'Ebre
         subtitle:
         summary: <p>Lo Pati · Centre d'Art Terres de l'Ebre.
         description: |
-          <p>Lo Pati · Centre d'Art Terres de l'Ebre. Treballs realitzats:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Sistema de gestión de contenidos</span></li>
-          <li><span class='blacktext'>URL amigables</span></li>
-          <li><span class='blacktext'>Internacionalización (i18n) y múltiples idiomas</span></li>
-          <li><span class='blacktext'>Minicalendario de eventos</span></li>
-          <li><span class='blacktext'>Newsletter</span></li></ul>
+          <p>Aquest projecte parteix d'una web existent realitzada amb ASP.net que ha estat reprogramada amb Symfony 2.1. A la part privada (bakcend) s'ha utilitzat el paquet d'administració SonataAdminBundle. La web original estava amb un únic idioma i no disposava de butlletí de notícies. Els treballs realitzats han estat:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Afegir un sistema de gestió de continguts eficient</span></li>
+          <li><span class='blacktext'>Crear un sistema automàtic de URLs amigables partir del títol de les pàgines que s'adapta perfectament per a cada idioma</span></li>
+          <li><span class='blacktext'>Internacionalització (i18n) de tota l'aplicació per a múltiples idiomes</span></li>
+          <li><span class='blacktext'>Minicalendari d'esdeveniments</span></li>
+          <li><span class='blacktext'>Butlletí de notícies personalitzable</span></li></ul>
