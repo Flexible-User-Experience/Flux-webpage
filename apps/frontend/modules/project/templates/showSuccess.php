@@ -6,7 +6,7 @@
 	<img class="logo" src='<?php echo $project->getLogo() ?>' alt='Logo <?php echo $project->getName() ?>'/>
 <?php endif; ?>
 
-<?php if ($project->getUnit()->getName() != 'Skaeda' && $project->getUnit()->getName() != 'Plataforma SomEnergia' && $project->getUnit()->getName() != 'Lo Pati'): ?>
+<?php if ($project->getUnit()->getName() != 'Skaeda' && $project->getUnit()->getName() != 'Plataforma SomEnergia' && $project->getUnit()->getName() != 'Lo Pati' && $project->getUnit()->getName() != 'ERP Estilconstruction'): ?>
 	<p><?php echo $project->getUnit()->getName(); ?></p>
 <?php endif; ?>
 

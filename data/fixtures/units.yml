@@ -11,10 +11,10 @@ Unit:
         description: |
           <p><strong>FL</strong>exible <strong>U</strong>ser e<strong>X</strong>perience (FLUX) is a young company dedicated to software development. 
           Born of effort and enthusiasm to achieve the following objectives:</p>
-          <ul><li><img class="home-icon" src="/images/home1.png"/><span class='blacktext'>Produce and comercialize software as a service [<a href="http://en.wikipedia.org/wiki/Software_as_a_service">SAAS</a>]</span></li>
-          <li><img class="home-icon" src="/images/home2.png"/><span class='blacktext'>Develop easy and functional applications</span></li>
-          <li><img class="home-icon" src="/images/home3.png"/><span class='blacktext'>Create innovative user interfaces</span></li>
-          <li><img class="home-icon" src="/images/home4.png"/><span class='blacktext'>Improve the user experience [<a href="http://en.wikipedia.org/wiki/User_experience">UX</a>]</span></li></ul>
+          <ul><li><img class="home-icon" src="/images/home1.png" alt="cloud icon"/><span class='blacktext'>Produce and comercialize software as a service [<a href="http://en.wikipedia.org/wiki/Software_as_a_service">SAAS</a>]</span></li>
+          <li><img class="home-icon" src="/images/home2.png" alt="engine icon"/><span class='blacktext'>Develop easy and functional applications</span></li>
+          <li><img class="home-icon" src="/images/home3.png" alt="screen icon"//><span class='blacktext'>Create innovative user interfaces</span></li>
+          <li><img class="home-icon" src="/images/home4.png" alt="ux icon"//><span class='blacktext'>Improve the user experience [<a href="http://en.wikipedia.org/wiki/User_experience">UX</a>]</span></li></ul>
       es:
         title: inicio
         subtitle:
@@ -23,10 +23,10 @@ Unit:
           <p><strong>FL</strong>exible <strong>U</strong>ser e<strong>X</strong>perience (FLUX) es una empresa joven dedicada al desarrollo de software especializada en 
           aplicaciones web y aplicaciones para dispositivos móviles iOS y Android. 
           Nuestra ilusión y esfuerzo busca conseguir los siguientes objetivos:</p>
-          <ul><li><img class="home-icon" src="/images/home1.png"/><span class='blacktext'>Producir y comercializar software como servicio [<a href="http://es.wikipedia.org/wiki/Software_como_servicio">SAAS</a>]</span></li>
-          <li><img class="home-icon" src="/images/home2.png"/><span class='blacktext'>Desarrollar aplicaciones funcionales y sencillas</span></li>
-          <li><img class="home-icon" src="/images/home3.png"/><span class='blacktext'>Crear interfaces de usuario innovadoras, flexibles y útiles</span></li>
-          <li><img class="home-icon" src="/images/home4.png"/><span class='blacktext'>Mejorar la experiencia de usuario [<a href="http://es.wikipedia.org/wiki/Experiencia_de_usuario">UX</a>]</span></li></ul>
+          <ul><li><img class="home-icon" src="/images/home1.png" alt="icono nube"//><span class='blacktext'>Producir y comercializar software como servicio [<a href="http://es.wikipedia.org/wiki/Software_como_servicio">SAAS</a>]</span></li>
+          <li><img class="home-icon" src="/images/home2.png" alt="icono engranaje"/><span class='blacktext'>Desarrollar aplicaciones funcionales y sencillas</span></li>
+          <li><img class="home-icon" src="/images/home3.png" alt="icono pantalla"/><span class='blacktext'>Crear interfaces de usuario innovadoras, flexibles y útiles</span></li>
+          <li><img class="home-icon" src="/images/home4.png" alt="icono UX"/><span class='blacktext'>Mejorar la experiencia de usuario [<a href="http://es.wikipedia.org/wiki/Experiencia_de_usuario">UX</a>]</span></li></ul>
       ca:
         title: inici
         subtitle:
@@ -35,10 +35,10 @@ Unit:
           <p><strong>FL</strong>exible <strong>U</strong>ser e<strong>X</strong>perience (FLUX) és una empresa jove dedicada al desenvolupament de software especialitzada amb 
           aplicacions web i aplicacions per a dispositius mòbils iOS i Android. 
           La nostra il·lusió i esforç cerca aconseguir els objectius següents:</p>
-          <ul><li><img class="home-icon" src="/images/home1.png"/><span class='blacktext'>Produir i comercialitzar programari com a servei [<a href="http://es.wikipedia.org/wiki/Software_como_servicio">SAAS</a>]</span></li>
-          <li><img class="home-icon" src="/images/home2.png"/><span class='blacktext'>Desenvolupar aplicacions funcionals i senzilles</span></li>
-          <li><img class="home-icon" src="/images/home3.png"/><span class='blacktext'>Crear interfícies d'usuari innovadores, flexibles i útils</span></li>
-          <li><img class="home-icon" src="/images/home4.png"/><span class='blacktext'>Millorar l'experiència d'usuari [<a href="http://ca.wikipedia.org/wiki/Experi%C3%A8ncia_d%27usuari">UX</a>]</span></li></ul>
+          <ul><li><img class="home-icon" src="/images/home1.png" alt="icona nuvol"/><span class='blacktext'>Produir i comercialitzar programari com a servei [<a href="http://es.wikipedia.org/wiki/Software_como_servicio">SAAS</a>]</span></li>
+          <li><img class="home-icon" src="/images/home2.png" alt="icona engranatge"/><span class='blacktext'>Desenvolupar aplicacions funcionals i senzilles</span></li>
+          <li><img class="home-icon" src="/images/home3.png" alt="icona pantalla"/><span class='blacktext'>Crear interfícies d'usuari innovadores, flexibles i útils</span></li>
+          <li><img class="home-icon" src="/images/home4.png" alt="icona UX"/><span class='blacktext'>Millorar l'experiència d'usuari [<a href="http://ca.wikipedia.org/wiki/Experi%C3%A8ncia_d%27usuari">UX</a>]</span></li></ul>
   team:
     name: Team
     url:
@@ -73,10 +73,10 @@ Unit:
         summary:
         description: |
           <p>If you wish to contact us to hire us, request a quote or more information expand on what we can do to improve the productivity of your business can find us at</p>
-          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png"/>(+34) 636 963 301 <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png"/><a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png"/><a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png"/><span class='blacktext'>Typing a short text on the form and we will contact you as soon as possible</span></li></ul>
+          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png" alt="iphone icon"/>(+34) 636 963 301 <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png" alt="skype icon"/><a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png" alt="twitter icon"/><a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png" alt="email icon"/><span class='blacktext'>Typing a short text on the form and we will contact you as soon as possible</span></li></ul>
       es:
         title: contacto
         subtitle:
@@ -84,10 +84,10 @@ Unit:
         description: |
           <p>Si deseas contactar con nosotros para contratarnos, pedir un presupuesto o ampliar más información sobre lo que podemos hacer para mejorar la productividad de su negocio 
           puede encontrarnos en</p>
-          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png"/><span class='blacktext'></span> (+34) 636 963 301 <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png"/><span class='blacktext'></span> <a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png"/><span class='blacktext'></span> <a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png"/><span class='blacktext'>Escribiendo un texto breve en el formulario siguiente</span></li></ul>
+          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png" alt="icono iPhone"/><span class='blacktext'></span> (+34) 636 963 301 <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png" alt="icono skype"/><span class='blacktext'></span> <a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png" alt="icono twitter"/><span class='blacktext'></span> <a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png" alt="icono email"/><span class='blacktext'>Escribiendo un texto breve en el formulario siguiente</span></li></ul>
       ca:
         title: contacte
         subtitle:
@@ -95,10 +95,10 @@ Unit:
         description: |
           <p>Si desitja contactar amb nosaltres per a contractar-nos, demanar un pressupost o ampliar més informació sobre que podem fer per a millorar la productivitat del seu negoci 
           pot localitzar-nos a</p>
-          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png"/>(+34) 636 963 301 <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png"/><a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png"/><a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
-          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png"/><span class='blacktext'>Escrivint un text breu al formulari i contactarem amb vostè el més aviat possible</span></li></ul>
+          <ul style="font-size:1.1em"><li style="margin-bottom:10px"><img class="contact-icon" src="/images/phone-mini.png" alt="icona iPhone"/>(+34) 636 963 301 <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/skype-mini.png" alt="icona skype"/><a href='skype:gnomehost?call'>gnomehost</a> <span class='blacktext'>(David)</span></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/twitter-mini.png" alt="icona twitter"/><a href="https://twitter.com/#!/davidromani">@davidromani</a></li>
+          <li style="margin-bottom:10px"><img class="contact-icon" src="/images/mail-mini.png" alt="icona email"/><span class='blacktext'>Escrivint un text breu al formulari i contactarem amb vostè el més aviat possible</span></li></ul>
   privacy:
     name: Privacy
     url:
@@ -160,11 +160,11 @@ Unit:
         description: |
           <p>Discover how we can improve the productivity of your business with our specialized services in information and communication technologies. Some of the tasks we perform are:</p>
           <ul style="font-size:1.1em">
-              <li style="min-height:70px"><img class="service-icon" src="/images/service1.png"/><span class='blacktext'>Develop web applications tailored to obtain a final product easy to use and perfectly suited to your needs</span></li>
-              <li style="min-height:70px"><img class="service-icon" src="/images/service2.png"/><span class='blacktext'>Upload the administrative processes of your business (invoices, statements...) to the cloud [<a href="http://en.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] so that you will be able to manage them via the Internet from any browser or mobile device (iPhone, iPhone and Android)</span></li>
-              <li style="min-height:70px"><img class="service-icon" src="/images/service3.png"/><span class='blacktext'>Create dynamic web pages in which yourself can organize your content easily. Our mission is to create content management systems [<a href="http://en.wikipedia.org/wiki/Content_management_system">CMS</a>] 100% customized to the nature of your product or service</span></li>
-              <li style="min-height:70px"><img class="service-icon" src="/images/service4.png"/><span class='blacktext'>Integrate secure electronic payment services (PayPal, Visa and Mastercard) in new or existing projects for you to access an international market through e-commerce</span></li>
-              <li style="min-height:70px"><img class="service-icon" src="/images/service5.png"/><span class='blacktext'>Provide specialized advise on technical projects, social networks and actions that maximize the visibility of your business in the Internet</span></li>
+              <li style="min-height:70px"><img class="service-icon" src="/images/service1.png" alt="screen prefs icon"/><span class='blacktext'>Develop web applications tailored to obtain a final product easy to use and perfectly suited to your needs</span></li>
+              <li style="min-height:70px"><img class="service-icon" src="/images/service2.png" alt="upload cloud icon"/><span class='blacktext'>Upload the administrative processes of your business (invoices, statements...) to the cloud [<a href="http://en.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] so that you will be able to manage them via the Internet from any browser or mobile device (iPhone, iPhone and Android)</span></li>
+              <li style="min-height:70px"><img class="service-icon" src="/images/service3.png" alt="checklist icon"/><span class='blacktext'>Create dynamic web pages in which yourself can organize your content easily. Our mission is to create content management systems [<a href="http://en.wikipedia.org/wiki/Content_management_system">CMS</a>] 100% customized to the nature of your product or service</span></li>
+              <li style="min-height:70px"><img class="service-icon" src="/images/service4.png" alt="credit card icon"/><span class='blacktext'>Integrate secure electronic payment services (PayPal, Visa and Mastercard) in new or existing projects for you to access an international market through e-commerce</span></li>
+              <li style="min-height:70px"><img class="service-icon" src="/images/service5.png" alt="social icon"/><span class='blacktext'>Provide specialized advise on technical projects, social networks and actions that maximize the visibility of your business in the Internet</span></li>
           </ul>
       es:
         title: servicios
@@ -173,11 +173,11 @@ Unit:
         description: |
           <p>Descubra como podemos mejorar la productividad de su negocio con nuestros servicios especializados en tecnologías de la información y comunicación. Algunas de las tareas que realizamos son:</p>
           <ul style="font-size:1.1em">
-            <li style="min-height:70px"><img class="service-icon" src="/images/service1.png"/><span class='blacktext'>Desarrollar aplicaciones web hechas a medida para obtener un producto final fácil de utilizar y perfectamente adaptado a sus necesidades</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service2.png"/><span class='blacktext'>Subir los procesos de gestión administrativa (albaranes, partes, facturas...) de su negocio a la nube [<a href="http://es.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] para que pueda gestionarlos a través de Internet desde cualquier navegador o dispositivo móvil (iPhone, iPad y Android)</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service3.png"/><span class='blacktext'>Crear páginas web dinámicas en las que usted mismo pueda administrar cómodamente su contenido. Nuestra misión es crear gestores de contenidos [<a href="http://es.wikipedia.org/wiki/Cms">CMS</a>] 100% personalizados a las características de su producto o servicio</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service4.png"/><span class='blacktext'>Integrar servicios de pago electrónico seguro (PayPal, Visa y Mastercard) en proyectos nuevos o existentes para que usted pueda acceder a un mercado internacional a través del comercio electrónico</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service5.png"/><span class='blacktext'>Asesorar sobre proyectes técnicos, redes sociales y acciones que maximicen la visibilidad de su negocio en Internet</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service1.png" alt="icono pantalla preferencias"/><span class='blacktext'>Desarrollar aplicaciones web hechas a medida para obtener un producto final fácil de utilizar y perfectamente adaptado a sus necesidades</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service2.png" alt="icono subir a la nube"/><span class='blacktext'>Subir los procesos de gestión administrativa (albaranes, partes, facturas...) de su negocio a la nube [<a href="http://es.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] para que pueda gestionarlos a través de Internet desde cualquier navegador o dispositivo móvil (iPhone, iPad y Android)</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service3.png" alt="icono lista de tareas"/><span class='blacktext'>Crear páginas web dinámicas en las que usted mismo pueda administrar cómodamente su contenido. Nuestra misión es crear gestores de contenidos [<a href="http://es.wikipedia.org/wiki/Cms">CMS</a>] 100% personalizados a las características de su producto o servicio</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service4.png" alt="icono tarjeta de crédito"/><span class='blacktext'>Integrar servicios de pago electrónico seguro (PayPal, Visa y Mastercard) en proyectos nuevos o existentes para que usted pueda acceder a un mercado internacional a través del comercio electrónico</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service5.png" alt="icono redes sociales"/><span class='blacktext'>Asesorar sobre proyectes técnicos, redes sociales y acciones que maximicen la visibilidad de su negocio en Internet</span></li>
           </ul>
       ca:
         title: serveis
@@ -186,11 +186,11 @@ Unit:
         description: |
           <p>Descobreixi com podem millorar la productivitat del seu negoci amb els nostres serveis especialitzats en tecnologies de la informació i comunicació. Algunes de les tasques que realitzem són:</p>
           <ul style="font-size:1.1em">
-            <li style="min-height:70px"><img class="service-icon" src="/images/service1.png"/><span class='blacktext'>Desenvolupar aplicacions web a mida per a obtenir un producte final fàcil d'utilitzar i perfectament adaptat a les seves necessitats</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service2.png"/><span class='blacktext'>Pujar els processos de gestió administrativa (albarans, partes, factures...) del seu negoci al núvol [<a href="http://ca.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] per a que pugui gestionar-los a través d'Internet des de qualsevol navegador o dispositiu mòbil (iPhone, iPad i Android)</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service3.png"/><span class='blacktext'>Crear pàgines web dinàmiques en les quals vostè mateix pugui administrar fàcilment el seu contingut. La nostra missió és crear gestors de continguts [<a href="http://ca.wikipedia.org/wiki/Sistema_de_gesti%C3%B3_de_continguts">CMS</a>] 100% personalitzats a les característiques del seu producte o servei</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service4.png"/><span class='blacktext'>Integrar serveis de pagament electrònic segur (PayPal, Visa i Mastercard) a projectes nous o existents per a que vostè pugui accedir a un mercat internacional a través del comerç electrònic</span></li>
-            <li style="min-height:70px"><img class="service-icon" src="/images/service5.png"/><span class='blacktext'>Assessorar sobre projectes tècnics, xarxes socials i accions que maximitzin la visibilitat del seu negoci a Internet</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service1.png" alt="icona pantalla preferències"/><span class='blacktext'>Desenvolupar aplicacions web a mida per a obtenir un producte final fàcil d'utilitzar i perfectament adaptat a les seves necessitats</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service2.png" alt="icona pujar al núvol"/><span class='blacktext'>Pujar els processos de gestió administrativa (albarans, partes, factures...) del seu negoci al núvol [<a href="http://ca.wikipedia.org/wiki/Cloud_Computing">cloud computing</a>] per a que pugui gestionar-los a través d'Internet des de qualsevol navegador o dispositiu mòbil (iPhone, iPad i Android)</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service3.png" alt="icona llista de tasques"/><span class='blacktext'>Crear pàgines web dinàmiques en les quals vostè mateix pugui administrar fàcilment el seu contingut. La nostra missió és crear gestors de continguts [<a href="http://ca.wikipedia.org/wiki/Sistema_de_gesti%C3%B3_de_continguts">CMS</a>] 100% personalitzats a les característiques del seu producte o servei</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service4.png" alt="icona tarja de crèdit"/><span class='blacktext'>Integrar serveis de pagament electrònic segur (PayPal, Visa i Mastercard) a projectes nous o existents per a que vostè pugui accedir a un mercat internacional a través del comerç electrònic</span></li>
+            <li style="min-height:70px"><img class="service-icon" src="/images/service5.png" alt="icona xarxes socials"/><span class='blacktext'>Assessorar sobre projectes tècnics, xarxes socials i accions que maximitzin la visibilitat del seu negoci a Internet</span></li>
           </ul>
   skaeda:
     name: Skaeda
@@ -463,23 +463,29 @@ Unit:
     image:
     Translation:
       en:
-        title: ERP Estilconstruction
+        title: ERP EstilConstruction
         subtitle:
-        summary: <p>ERP Estilconstruction.</p>
+        summary: <p>ERP EstilConstruction.
         description: |
-          <p>. The work has been:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Add an efficient content management system</span></li></ul>
+          <p>Web application that allows enterprise resource planning [<a href="http://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a>] of a company dedicated to the export of products with road transport. The work has been:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Main resources management modules (customers, factories, carriers and sellers)</span></li>
+          <li><span class='blacktext'>Automated email notification alerts</span></li>
+          <li><span class='blacktext'>Four application frontends separated with different user profiles that share the same database but with different functionalities</span></li></ul>
       es:
-        title: ERP Estilconstruction
+        title: ERP EstilConstruction
         subtitle:
-        summary: <p>ERP Estilconstruction.</p>
+        summary: <p>ERP EstilConstruction.
         description: |
-          <p>. Los trabajos realizados han sido:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Añadir un sistema de gestión de contenidos eficiente</span></li></ul>
+          <p>Aplicación web que permite la planificación de recursos empresariales [<a href="http://es.wikipedia.org/wiki/Planificaci%C3%B3n_de_Recursos_Empresariales">ERP</a>] de una empresa dedicada a la exportación de productos con transporte por carretera. Los trabajos realizados han sido:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Módulos de gestión de los principales recursos (clientes, fábricas, transportistas y comerciales)</span></li>
+          <li><span class='blacktext'>Sistema automatizado de notificación de avisos por email</span></li>
+          <li><span class='blacktext'>4 aplicaciones frontales (frontends) separadas con diferentes perfiles de usuario que comparten la misma base de datos pero con funcionalidades diferentes</span></li></ul>
       ca:
-        title: ERP Estilconstruction
+        title: ERP EstilConstruction
         subtitle:
-        summary: <p>ERP Estilconstruction.</p>
+        summary: <p>ERP EstilConstruction.
         description: |
-          <p>. Els treballs realitzats han estat:</p>
-          <ul class="projects-ul"><li><span class='blacktext'>Afegir un sistema de gestió de continguts eficient</span></li></ul>
+          <p>Aplicació web que permet la planificació de recursos empresarials [<a href="http://ca.wikipedia.org/wiki/Planificaci%C3%B3_de_Recursos_Empresarials">ERP</a>] d'una empresa dedicada a l'exportació de productes amb transport per carretera. Els treballs realitzats han estat:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Mòduls de gestió dels principals recursos (clients, fàbriques, transportistes i comercials)</span></li>
+          <li><span class='blacktext'>Sistema automatitzat de notificació d'avisos per email</span></li>
+          <li><span class='blacktext'>4 aplicacions frontals (frontends) separades amb diferents perfils d'usuari que comparteixen la mateixa base de dades però amb funcionalitats diferents</span></li></ul>

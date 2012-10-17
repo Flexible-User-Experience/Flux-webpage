@@ -7,7 +7,7 @@ Project:
     begin_date: '2011-01-17'
     end_date: '2012-01-17'
     Unit: skaeda
-    Enumeration: one
+    Enumeration: eight
     Translation:
       en:
         technology: HTML5, CSS3, JavaScript, Websocket, Java Servlets, MySQL & PHP
@@ -23,7 +23,7 @@ Project:
     begin_date: '2011-10-01'
     end_date: '2011-11-15'
     Unit: amep
-    Enumeration: two
+    Enumeration: seven
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -39,7 +39,7 @@ Project:
     begin_date: '2011-12-01'
     end_date: '2012-03-01'
     Unit: aepla
-    Enumeration: three
+    Enumeration: six
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MSSQL Server 2008
@@ -55,7 +55,7 @@ Project:
     begin_date: '2012-02-23'
     end_date: '2012-03-01'
     Unit: deltacactus
-    Enumeration: four
+    Enumeration: five
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -71,7 +71,7 @@ Project:
     begin_date: '2012-03-01'
     end_date: '2012-04-30'
     Unit: viucar
-    Enumeration: five
+    Enumeration: four
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -87,7 +87,7 @@ Project:
     begin_date: '2012-04-01'
     end_date: '2012-05-01'
     Unit: somenergia
-    Enumeration: six
+    Enumeration: three
     Translation:
       en:
         technology: Elgg, PHP, MySQL & Git
@@ -103,7 +103,7 @@ Project:
     begin_date: '2012-08-01'
     end_date: '2012-12-01'
     Unit: lopati
-    Enumeration: seven
+    Enumeration: one
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript & MySQL
@@ -116,14 +116,14 @@ Project:
     logo: /images/estilconstruction-logo-color.png
     logo_bw: /images/estilconstruction-logo.png
     alt_image: /images/estilconstruction-screenshot.png
-    begin_date: '2012-07-01'
+    begin_date: '2012-06-04'
     end_date: '2012-12-01'
     Unit: estilconstruction
-    Enumeration: eight
+    Enumeration: two
     Translation:
       en:
-        technology: PHP Symfony Framework, JavaScript & MySQL
+        technology: PHP Symfony Framework, jQuery & MySQL
       es:
-        technology: PHP Symfony Framework, JavaScript y MySQL
+        technology: PHP Symfony Framework, jQuery y MySQL
       ca:
-        technology: PHP Symfony Framework, JavaScript i MySQL
+        technology: PHP Symfony Framework, jQuery i MySQL
