@@ -457,3 +457,29 @@ Unit:
           <li><span class='blacktext'>Internacionalització (i18n) de tota l'aplicació per a múltiples idiomes</span></li>
           <li><span class='blacktext'>Minicalendari d'esdeveniments</span></li>
           <li><span class='blacktext'>Butlletí de notícies personalitzable</span></li></ul>
+  estilconstruction:
+    name: ERP Estilconstruction
+    url: 
+    image:
+    Translation:
+      en:
+        title: ERP Estilconstruction
+        subtitle:
+        summary: <p>ERP Estilconstruction.</p>
+        description: |
+          <p>. The work has been:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Add an efficient content management system</span></li></ul>
+      es:
+        title: ERP Estilconstruction
+        subtitle:
+        summary: <p>ERP Estilconstruction.</p>
+        description: |
+          <p>. Los trabajos realizados han sido:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Añadir un sistema de gestión de contenidos eficiente</span></li></ul>
+      ca:
+        title: ERP Estilconstruction
+        subtitle:
+        summary: <p>ERP Estilconstruction.</p>
+        description: |
+          <p>. Els treballs realitzats han estat:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Afegir un sistema de gestió de continguts eficient</span></li></ul>

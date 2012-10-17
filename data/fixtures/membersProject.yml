@@ -164,3 +164,14 @@ MemberProject:
         task:
       ca:
         task:
+  estilconstructiondavid:
+    Project: estilconstruction
+    Member: david
+    Enumeration: one
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:
