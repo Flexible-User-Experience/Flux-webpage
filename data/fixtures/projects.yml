@@ -103,7 +103,7 @@ Project:
     begin_date: '2012-08-01'
     end_date: '2012-12-01'
     Unit: lopati
-    Enumeration: one
+    Enumeration: two
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript & MySQL
@@ -127,3 +127,19 @@ Project:
         technology: PHP Symfony Framework, jQuery y MySQL
       ca:
         technology: PHP Symfony Framework, jQuery i MySQL
+  asbae:
+    name: asbae
+    logo: /images/asbae-logo-color.png
+    logo_bw: /images/asbae-logo.png
+    alt_image: /images/asbae-screenshot.png
+    begin_date: '2012-09-19'
+    end_date: '2012-11-15'
+    Unit: asbae
+    Enumeration: one
+    Translation:
+      en:
+        technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX & MySQL
+      es:
+        technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX y MySQL
+      ca:
+        technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX i MySQL

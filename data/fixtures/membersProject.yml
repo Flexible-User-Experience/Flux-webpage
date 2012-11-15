@@ -175,3 +175,25 @@ MemberProject:
         task:
       ca:
         task:
+  asbaedavid:
+    Project: asbae
+    Member: david
+    Enumeration: one
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:
+  asbaemarcos:
+    Project: asbae
+    Member: marcos
+    Enumeration: two
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:

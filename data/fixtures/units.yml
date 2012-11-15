@@ -489,3 +489,38 @@ Unit:
           <ul class="projects-ul"><li><span class='blacktext'>Mòduls de gestió dels principals recursos (clients, fàbriques, transportistes i comercials)</span></li>
           <li><span class='blacktext'>Sistema automatitzat de notificació d'avisos per email</span></li>
           <li><span class='blacktext'>4 aplicacions frontals (frontends) separades amb diferents perfils d'usuari que comparteixen la mateixa base de dades però amb funcionalitats diferents</span></li></ul>
+  asbae:
+    name: Asociación de Servicios Bosch Automoción de España
+    url:
+    image:
+    Translation:
+      en:
+        title: Asociación de Servicios Bosch Automoción de España
+        subtitle:
+        summary: <p>Bosch Automotive Service Association of Spain.
+        description: |
+          <p>Corporate website for the association of workshops Bosch Spain. The Content Manager allows the association to add the news, services and training courses and workshops offered belonging. The work has been:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Representation of courses on a quarterly calendar</span></li>
+          <li><span class='blacktext'>Representation of associated workshops on an interactive Google map</span></li>
+          <li><span class='blacktext'>Management services grouped by categories</span></li>
+          <li><span class='blacktext'>Automatic Friendly URLs</span></li></ul>
+      es:
+        title: Asociación de Servicios Bosch Automoción de España
+        subtitle:
+        summary: <p>Asociación de Servicios Bosch Automoción de España.
+        description: |
+          <p>Página web corporativa para la asociación de talleres Bosch de España. El administrador de contenido permite a la asociación añadir las noticias, los servicios y cursos de formación que ofrece y los talleres que pertenecen. Los trabajos realizados han sido:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Representación de los cursos sobre un calendario trimestral</span></li>
+          <li><span class='blacktext'>Representación de los talleres asociados sobre un mapa interactivo de Google</span></li>
+          <li><span class='blacktext'>Gestión de los servicios agrupados por categorías</span></li>
+          <li><span class='blacktext'>URL amigables automáticas</span></li></ul>
+      ca:
+        title: Asociación de Servicios Bosch Automoción de España
+        subtitle:
+        summary: <p>Associació de Serveis Bosch Automoció de Espanya.
+        description: |
+          <p>Pàgina web corporativa per a l'associació de tallers Bosch d'Espanya. L'administrador de contingut permet a l'associació afegir les notícies, els serveis i cursos de formació que ofereix i els tallers que pertanyen. Els treballs realitzats han estat:</p>
+          <ul class="projects-ul"><li><span class='blacktext'>Representació dels cursos sobre un calendari trimestral</span></li>
+          <li><span class='blacktext'>Representació dels tallers associats sobre un mapa interactiu de Google</span></li>
+          <li><span class='blacktext'>Gestió dels serveis agrupats per categories</span></li>
+          <li><span class='blacktext'>URL amigables automàtiques</span></li></ul>
