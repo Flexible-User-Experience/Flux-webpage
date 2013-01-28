@@ -7,7 +7,7 @@ Project:
     begin_date: '2011-01-17'
     end_date: '2012-01-17'
     Unit: skaeda
-    Enumeration: eight
+    Enumeration: nine
     Translation:
       en:
         technology: HTML5, CSS3, JavaScript, Websocket, Java Servlets, MySQL & PHP
@@ -39,7 +39,7 @@ Project:
     begin_date: '2011-12-01'
     end_date: '2012-03-01'
     Unit: aepla
-    Enumeration: six
+    Enumeration: eight
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MSSQL Server 2008
@@ -55,7 +55,7 @@ Project:
     begin_date: '2012-02-23'
     end_date: '2012-03-01'
     Unit: deltacactus
-    Enumeration: five
+    Enumeration: seven
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -71,7 +71,7 @@ Project:
     begin_date: '2012-03-01'
     end_date: '2012-04-30'
     Unit: viucar
-    Enumeration: four
+    Enumeration: six
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -87,7 +87,7 @@ Project:
     begin_date: '2012-04-01'
     end_date: '2012-05-01'
     Unit: somenergia
-    Enumeration: three
+    Enumeration: five
     Translation:
       en:
         technology: Elgg, PHP, MySQL & Git
@@ -103,7 +103,7 @@ Project:
     begin_date: '2012-08-01'
     end_date: '2012-12-01'
     Unit: lopati
-    Enumeration: two
+    Enumeration: four
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript & MySQL
@@ -119,7 +119,7 @@ Project:
     begin_date: '2012-06-04'
     end_date: '2012-12-01'
     Unit: estilconstruction
-    Enumeration: two
+    Enumeration: three
     Translation:
       en:
         technology: PHP Symfony Framework, jQuery & MySQL
@@ -135,7 +135,7 @@ Project:
     begin_date: '2012-09-19'
     end_date: '2012-11-15'
     Unit: asbae
-    Enumeration: one
+    Enumeration: two
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX & MySQL
@@ -143,3 +143,19 @@ Project:
         technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX y MySQL
       ca:
         technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX i MySQL
+  ionaiona:
+      name: ionaiona
+      logo: /images/ionaiona-logo-color.png
+      logo_bw: /images/ionaiona-logo.png
+      alt_image: /images/ionaiona-screenshot.png
+      begin_date: '2012-12-01'
+      end_date: '2013-01-31'
+      Unit: ionaiona
+      Enumeration: one
+      Translation:
+        en:
+          technology: PHP Symfony2 Framework, JavaScript, SVG & HTML5
+        es:
+          technology: PHP Symfony2 Framework, JavaScript, SVG y HTML5
+        ca:
+          technology: PHP Symfony2 Framework, JavaScript, SVG i HTML5

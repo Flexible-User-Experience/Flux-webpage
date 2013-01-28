@@ -197,3 +197,14 @@ MemberProject:
         task:
       ca:
         task:
+  ionaionadavid:
+      Project: ionaiona
+      Member: david
+      Enumeration: one
+      Translation:
+        en:
+          task:
+        es:
+          task:
+        ca:
+          task:

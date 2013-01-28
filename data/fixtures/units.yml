@@ -389,7 +389,7 @@ Unit:
           <li><span class='blacktext'>Formulari de contacte amb registre d'usuaris per a rebre notificacions d'avís per email</span></li></ul>
   somenergia:
     name: Plataforma SomEnergia
-    url: www.somenergia.coop/plataforma
+    url: plataforma.somenergia.coop
     image:
     Translation:
       en:
@@ -491,7 +491,7 @@ Unit:
           <li><span class='blacktext'>4 aplicacions frontals (frontends) separades amb diferents perfils d'usuari que comparteixen la mateixa base de dades però amb funcionalitats diferents</span></li></ul>
   asbae:
     name: Asociación de Servicios Bosch Automoción de España
-    url:
+    url: www.asbae.com
     image:
     Translation:
       en:
@@ -524,3 +524,41 @@ Unit:
           <li><span class='blacktext'>Representació dels tallers associats sobre un mapa interactiu de Google</span></li>
           <li><span class='blacktext'>Gestió dels serveis agrupats per categories</span></li>
           <li><span class='blacktext'>URL amigables automàtiques</span></li></ul>
+  ionaiona:
+      name: Iona Iona Patchdolls & Co.
+      url: www.ionaiona.com
+      image:
+      Translation:
+        en:
+          title: Iona Iona Patchdolls & Co.
+          subtitle:
+          summary: <p>IonaIona Patchdolls & Co.
+          description: |
+            <p>Online store dedicated to selling handmade dolls sewn by hand. The work has been:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>SVG animation of living objects with Javascript</span></li>
+            <li><span class='blacktext'>Product management and stock</span></li>
+            <li><span class='blacktext'>Management of static and dynamic pages</span></li>
+            <li><span class='blacktext'>Management of blog and categories</span></li>
+            <li><span class='blacktext'>Automatic Friendly URLs</span></li></ul>
+        es:
+          title: Iona Iona Patchdolls & Co.
+          subtitle:
+          summary: <p>IonaIona Patchdolls & Co.
+          description: |
+            <p>Tienda online destinada a la venta de muñecos artesanales cosidos a mano. Los trabajos realizados han sido:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>Animación viva de objetos SVG con Javascript</span></li>
+            <li><span class='blacktext'>Gestión de productos y stock</span></li>
+            <li><span class='blacktext'>Gestión de páginas estáticas y dinámicas</span></li>
+            <li><span class='blacktext'>Gestión de bitácora y categorías</span></li>
+            <li><span class='blacktext'>URLs amigables automáticas</span></li></ul>
+        ca:
+          title: Iona Iona Patchdolls & Co.
+          subtitle:
+          summary: <p>IonaIona Patchdolls & Co.
+          description: |
+            <p>Botiga online destinada a la venda de ninots artesanals cosits a ma. Els treballs realitzats han estat:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>Animació viva d'objectes SVG amb Javascript</span></li>
+            <li><span class='blacktext'>Gestió de productes i estoc</span></li>
+            <li><span class='blacktext'>Gestió de pàgines estàtiques i dinàmiques</span></li>
+            <li><span class='blacktext'>Gestió de bitàcola i categories</span></li>
+            <li><span class='blacktext'>URLs amigables automàtiques</span></li></ul>
