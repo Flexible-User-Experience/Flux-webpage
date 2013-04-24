@@ -208,3 +208,25 @@ MemberProject:
           task:
         ca:
           task:
+  cellermenescaldavid:
+    Project: cellermenescal
+    Member: david
+    Enumeration: one
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:
+  cellermenescalmarcos:
+    Project: cellermenescal
+    Member: marcos
+    Enumeration: two
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:

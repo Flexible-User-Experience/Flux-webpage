@@ -562,3 +562,40 @@ Unit:
             <li><span class='blacktext'>Gestió de pàgines estàtiques i dinàmiques</span></li>
             <li><span class='blacktext'>Gestió de bitàcola i categories</span></li>
             <li><span class='blacktext'>URLs amigables automàtiques</span></li></ul>
+  cellermenescal:
+      name: Celler Cal Menescal
+      url: www.cellermenescal.com
+      image:
+      Translation:
+        en:
+          title: Celler Cal Menescal
+          subtitle:
+          summary: <p>Celler Cal Menescal
+          description: |
+            <p>Corporate website of the winery where are the main products and activities to promote winemaking. The work has been:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>SVG animation of living objects with Javascript</span></li>
+            <li><span class='blacktext'>Managing dynamic pages</span></li>
+            <li><span class='blacktext'>Management of wines and categories</span></li>
+            <li><span class='blacktext'>Management of activities and categories</span></li>
+            <li><span class='blacktext'>Automatic Friendly URLs</span></li></ul>
+        es:
+          title: Celler Cal Menescal
+          subtitle:
+          summary: <p>Celler Cal Menescal
+          description: |
+            <p>Página web corporativa de la bodega donde se muestran los productos principales y las actividades enológicas a promocionar. Los trabajos realizados han sido:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>Animación viva de objetos SVG con Javascript</span></li>
+            <li><span class='blacktext'>Gestión de páginas dinámicas</span></li>
+            <li><span class='blacktext'>Gestión de vinos y categorías</span></li>
+            <li><span class='blacktext'>Gestión de actividades y categorías</span></li>
+            <li><span class='blacktext'>URLs amigables automáticas</span></li></ul>
+        ca:
+          title: Celler Cal Menescal
+          subtitle:
+          summary: <p>Celler Cal Menescal
+          description: |
+            <p>Pàgina web corporativa del celler on es mostren els productes principals i les activitats enològiques a promocionar. Els treballs realitzats han estat:</p>
+            <ul class="projects-ul"><li><span class='blacktext'>Gestió de pàgines dinàmiques</span></li>
+            <li><span class='blacktext'>Gestió de vins i categories</span></li>
+            <li><span class='blacktext'>Gestió d'activitats i categories</span></li>
+            <li><span class='blacktext'>URLs amigables automàtiques</span></li></ul>

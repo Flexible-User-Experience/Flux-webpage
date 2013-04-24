@@ -7,7 +7,7 @@ Project:
     begin_date: '2011-01-17'
     end_date: '2012-01-17'
     Unit: skaeda
-    Enumeration: nine
+    Enumeration: eleven
     Translation:
       en:
         technology: HTML5, CSS3, JavaScript, Websocket, Java Servlets, MySQL & PHP
@@ -23,7 +23,7 @@ Project:
     begin_date: '2011-10-01'
     end_date: '2011-11-15'
     Unit: amep
-    Enumeration: seven
+    Enumeration: ten
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -39,7 +39,7 @@ Project:
     begin_date: '2011-12-01'
     end_date: '2012-03-01'
     Unit: aepla
-    Enumeration: eight
+    Enumeration: nine
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MSSQL Server 2008
@@ -55,7 +55,7 @@ Project:
     begin_date: '2012-02-23'
     end_date: '2012-03-01'
     Unit: deltacactus
-    Enumeration: seven
+    Enumeration: eight
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -71,7 +71,7 @@ Project:
     begin_date: '2012-03-01'
     end_date: '2012-04-30'
     Unit: viucar
-    Enumeration: six
+    Enumeration: seven
     Translation:
       en:
         technology: PHP Symfony Framework, JavaScript & MySQL
@@ -87,7 +87,7 @@ Project:
     begin_date: '2012-04-01'
     end_date: '2012-05-01'
     Unit: somenergia
-    Enumeration: five
+    Enumeration: six
     Translation:
       en:
         technology: Elgg, PHP, MySQL & Git
@@ -103,7 +103,7 @@ Project:
     begin_date: '2012-08-01'
     end_date: '2012-12-01'
     Unit: lopati
-    Enumeration: four
+    Enumeration: five
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript & MySQL
@@ -119,7 +119,7 @@ Project:
     begin_date: '2012-06-04'
     end_date: '2012-12-01'
     Unit: estilconstruction
-    Enumeration: three
+    Enumeration: four
     Translation:
       en:
         technology: PHP Symfony Framework, jQuery & MySQL
@@ -135,7 +135,7 @@ Project:
     begin_date: '2012-09-19'
     end_date: '2012-11-15'
     Unit: asbae
-    Enumeration: two
+    Enumeration: three
     Translation:
       en:
         technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX & MySQL
@@ -144,18 +144,34 @@ Project:
       ca:
         technology: PHP Symfony2 Framework, JavaScript, Google Maps API, JSON, AJAX i MySQL
   ionaiona:
-      name: ionaiona
-      logo: /images/ionaiona-logo-color.png
-      logo_bw: /images/ionaiona-logo.png
-      alt_image: /images/ionaiona-screenshot.png
-      begin_date: '2012-12-01'
-      end_date: '2013-01-31'
-      Unit: ionaiona
-      Enumeration: one
-      Translation:
-        en:
-          technology: PHP Symfony2 Framework, JavaScript, SVG & HTML5
-        es:
-          technology: PHP Symfony2 Framework, JavaScript, SVG y HTML5
-        ca:
-          technology: PHP Symfony2 Framework, JavaScript, SVG i HTML5
+    name: ionaiona
+    logo: /images/ionaiona-logo-color.png
+    logo_bw: /images/ionaiona-logo.png
+    alt_image: /images/ionaiona-screenshot.png
+    begin_date: '2012-12-01'
+    end_date: '2013-01-31'
+    Unit: ionaiona
+    Enumeration: two
+    Translation:
+      en:
+        technology: PHP Symfony2 Framework, JavaScript, SVG & HTML5
+      es:
+        technology: PHP Symfony2 Framework, JavaScript, SVG y HTML5
+      ca:
+        technology: PHP Symfony2 Framework, JavaScript, SVG i HTML5
+  cellermenescal:
+    name: cellermenescal
+    logo: /images/cellermenescal-logo-color.png
+    logo_bw: /images/cellermenescal-logo.png
+    alt_image: /images/cellermenescal-screenshot.png
+    begin_date: '2013-03-20'
+    end_date: '2013-04-24'
+    Unit: cellermenescal
+    Enumeration: one
+    Translation:
+      en:
+        technology: PHP Symfony2 Framework, JavaScript & HTML5
+      es:
+        technology: PHP Symfony2 Framework, JavaScript y HTML5
+      ca:
+        technology: PHP Symfony2 Framework, JavaScript i HTML5

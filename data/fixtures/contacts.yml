@@ -90,7 +90,7 @@ Contact:
   githubdavid:
     target: https://github.com/davidromani
     Member: david
-    Enumeration: six
+    Enumeration: four
     Translation:
       en:
         kind: GitHub
@@ -241,6 +241,17 @@ Contact:
         kind: Web
       ca:
         kind: Web
+  webmarcos:
+      target: http://www.marcosjurado.com
+      Member: marcos
+      Enumeration: one
+      Translation:
+        en:
+          kind: Web
+        es:
+          kind: Web
+        ca:
+          kind: Web
   linkedmarcos:
     target: http://www.linkedin.com/in/marcosjurado
     Member: marcos
@@ -285,7 +296,7 @@ Contact:
         kind: LinkedIn
       ca:
         kind: LinkedIn
-  githubdavid:
+  githubmorales:
     target: https://github.com/mrcmorales
     Member: marcmorales
     Enumeration: six

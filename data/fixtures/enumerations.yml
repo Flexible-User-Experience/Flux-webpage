@@ -59,3 +59,21 @@ Enumeration:
   tenOff:
     position:   10
     is_active:  false
+  eleven:
+    position:   11
+    is_active:  true
+  elevenOff:
+    position:   11
+    is_active:  false
+  twelve:
+    position:   12
+    is_active:  true
+  twelveOff:
+    position:   12
+    is_active:  false
+  thirteen:
+    position:   13
+    is_active:  true
+  thirteenOff:
+    position:   13
+    is_active:  false
