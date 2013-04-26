@@ -307,10 +307,21 @@ Contact:
         kind: GitHub
       ca:
         kind: GitHub
+  emailadan:
+    target: mailto:adanprincep@gmail.com
+    Member: adanprincep
+    Enumeration: one
+    Translation:
+      en:
+        kind: Email
+      es:
+        kind: Email
+      ca:
+        kind: Email
   webadan:
       target: http://www.adanprincep.com
       Member: adanprincep
-      Enumeration: one
+      Enumeration: two
       Translation:
         en:
           kind: Web
