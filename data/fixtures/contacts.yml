@@ -307,3 +307,14 @@ Contact:
         kind: GitHub
       ca:
         kind: GitHub
+  webadan:
+      target: http://www.adanprincep.com
+      Member: adanprincep
+      Enumeration: one
+      Translation:
+        en:
+          kind: Web
+        es:
+          kind: Web
+        ca:
+          kind: Web

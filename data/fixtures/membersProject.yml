@@ -230,3 +230,14 @@ MemberProject:
         task:
       ca:
         task:
+  cellermenescaladan:
+    Project: cellermenescal
+    Member: adanprincep
+    Enumeration: three
+    Translation:
+      en:
+        task:
+      es:
+        task:
+      ca:
+        task:

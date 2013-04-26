@@ -215,3 +215,27 @@ Member:
         address:
         category: Programador
         description: Enginyer Tècnic Informàtica de Sistemes
+  adanprincep:
+    user: adan.princep
+    is_partner: 1
+    alt_image: adanprincep.png
+    Enumeration: ten
+    Translation:
+      en:
+        name: Adan
+        surname: Príncep
+        address:
+        category: Photographer
+        description:
+      es:
+        name: Adan
+        surname: Príncep
+        address:
+        category: Fotógrafo
+        description:
+      ca:
+        name: Adan
+        surname: Príncep
+        address:
+        category: Fotògraf
+        description:
